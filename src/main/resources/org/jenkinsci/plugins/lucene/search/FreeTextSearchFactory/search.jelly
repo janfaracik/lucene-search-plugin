@@ -1,6 +1,6 @@
 <?jelly escape-by-default='true'?>
 <j:jelly xmlns:j="jelly:core">
-    <a href="...">
+    <a href="search/?q=">
         Lucene
     </a>
 </j:jelly>
